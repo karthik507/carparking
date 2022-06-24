@@ -1,5 +1,5 @@
 # carparking
-##The Online Vehicle Parking Reservation System (OVPRS) is a system that enables 
+The Online Vehicle Parking Reservation System (OVPRS) is a system that enables 
 customers/drivers to reserve a parking space. It also allows the customers/drivers to view the
 parking status at kyebando people’s park. It was developed because the congestion and collision 
 of the vehicle, the system was developed for Kyebando People’s Park located in Kyebando
